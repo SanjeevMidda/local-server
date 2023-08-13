@@ -1,0 +1,24 @@
+{
+  "fruits": [
+    {
+      "fruit": "apples",
+      "color": "red",
+      "quantity": 5
+    },
+    {
+      "fruit": "strawberries",
+      "color": "red",
+      "quantity": 20
+    },
+    {
+      "fruit": "blackcurrents",
+      "color": "black",
+      "quantity": 12
+    },
+    {
+      "fruit": "grapes",
+      "color": "red",
+      "quantity": 35
+    }
+  ]
+}
